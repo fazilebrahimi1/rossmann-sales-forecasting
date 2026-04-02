@@ -1,6 +1,6 @@
 # Rossmann Store Sales Forecasting
 
-A time series forecasting project comparing SARIMA, Prophet, and XGBoost 
+A time series forecasting project comparing SARIMA, ARIMA, and XGBoost 
 on real weekly retail sales data from Rossmann, Germany's second-largest 
 drugstore chain.
 
